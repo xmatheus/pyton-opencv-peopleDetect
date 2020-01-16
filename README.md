@@ -10,6 +10,6 @@ Ele salva as imagens das pessoas em pastas com o titúlo sendo a hora atual.
 
 
 ## próximos passos
-- [ ] Salvar o rosto e atribuir um ID,caso a pessoa passe novamente pelo mesmo local: Ele atualiza no banco de dados
+- [ ] Salvar o rosto e atribuir um ID, caso a pessoa passe novamente pelo mesmo local: Ele atualiza no banco de dados
 - [ ] Enviar os rostos para a conta do usuário no Telegram
 - [ ] Fazer rodar com o framework Kivy no android
